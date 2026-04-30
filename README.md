@@ -250,7 +250,7 @@ git clone https://github.com/YOUR_USERNAME/smart-home-automation-system.git
 cd smart-home-automation-system
 ```
 
-> Replace `YOUR_USERNAME` with your actual GitHub username.
+> Replace `Asmamaw-kas` with your actual GitHub username.
 
 ---
 
@@ -690,39 +690,6 @@ screenshots/
 └── darkmode.png
 ```
 
-<details>
-<summary>View screenshots</summary>
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Device Control
-
-![Devices](screenshots/devices.png)
-
-### Automation Rules
-
-![Automation](screenshots/automation.png)
-
-### Security Panel
-
-![Security](screenshots/security.png)
-
-### Camera Stream
-
-![Camera](screenshots/camera.png)
-
-### Activity Logs
-
-![Logs](screenshots/logs.png)
-
-### Dark Mode
-
-![Dark Mode](screenshots/darkmode.png)
-
-</details>
-
 ---
 
 ## 📦 Backend Requirements Reference
@@ -1110,7 +1077,7 @@ Special thanks to:
 https://github.com/YOUR_USERNAME/smart-home-automation-system
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `Asmamaw-kas` with your GitHub username.
 
 ---
 
