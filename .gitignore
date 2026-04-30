@@ -1,0 +1,116 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.log
+*.pot
+*.pyc
+*.pyd
+*.pyo
+*.sqlite3
+db.sqlite3
+.DS_Store
+.coverage
+.coverage.*
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.django_static/
+media/
+staticfiles/
+mediafiles/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyd
+*.pyo
+*.sqlite3
+db.sqlite3
+.DS_Store
+.coverage
+.coverage.*
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.django_static/
+static/
+media/
+staticfiles/
+mediafiles/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Node / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+dist-ssr/
+*.local
+.vite/
+build/
+.DS_Store
+*.pem
+.env
+.env.*
+!.env.example
+
+# Arduino
+*.ino.preprocessed
+*.ino.with_bootloader
+*.hex
+
+# Logs
+logs/
+*.log
+camera_recordings/
+motion_snapshots/
+camera_snapshots/
+camera_thumbnails/
+
+# Backup files
+*.bak
+*.backup
+*.old
+backup_*.sql
+backup_*.zip
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Security
+*.key
+*.pem
+*.crt
+*.p12
