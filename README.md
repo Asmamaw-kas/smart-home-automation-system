@@ -1094,9 +1094,9 @@ Special thanks to:
 
 | Name | ID |
 |---|---|
-| Asmamaw Kassie | 00727/14 |
-| Temesgen Molla | 01322/14 |
-| Ayichew Mulusew | 02668/14 |
+| Asmamaw Kassie | 
+| Temesgen Molla | 
+| Ayichew Mulusew |
 
 **University:** University of Gondar, Fasil Campus  
 **Department:** Computer Engineering  
