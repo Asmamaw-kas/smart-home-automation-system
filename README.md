@@ -3,7 +3,6 @@ Here is a clean, merged, single `README.md` file you can copy directly:
 ````markdown
 # 🏠 Smart Home Automation System
 
-<div align="center">
 
 An IoT-based **Smart Home Automation and Security System** for monitoring, controlling, and automating household appliances through a modern web dashboard.
 
@@ -13,7 +12,6 @@ An IoT-based **Smart Home Automation and Security System** for monitoring, contr
 [![Arduino](https://img.shields.io/badge/Arduino-IoT-teal.svg)](https://www.arduino.cc/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
 
-</div>
 
 ---
 
