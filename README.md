@@ -1074,7 +1074,7 @@ Special thanks to:
 ## 🔗 Project Link
 
 ```text
-https://github.com/YOUR_USERNAME/smart-home-automation-system
+https://github.com/Asmamaw-kas/smart-home-automation-system
 ```
 
 Replace `Asmamaw-kas` with your GitHub username.
